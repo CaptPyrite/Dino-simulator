@@ -13,7 +13,7 @@ graph TD
     B --> C{Agent survival}
     C -->|Choice One| D[Kill agent] --> A
     C -->|Choice Two| E[Keep agent] --> G
-    C -->|Choice Three| F[Muitate agent] --> G
+    C -->|Choice Three| F[Mutate agent] --> G
 ```
 
 * Choice 1 = Agent doesn't have the required genomes to survive the simulation/environment
